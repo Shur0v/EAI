@@ -10,28 +10,28 @@ export default function Process() {
       title: "Auditoría Profunda",
       description: "Analizamos tu reporte de crédito bajo la lupa de la ley FCRA para identificar cada inconsistencia que te está bloqueando.",
       icon: <Search className="w-6 h-6" />,
-      image: "https://picsum.photos/seed/audit/600/400"
+      image: "https://hfcl-website-cms.s3.ap-south-1.amazonaws.com/What_Is_FCRA_1988046611.webp"
     },
     {
       number: "02",
       title: "Diseño de Estrategia",
       description: "Creamos un plan de acción personalizado basado en tus metas: ¿Casa, Negocio o Inversión? Hablamos el idioma de los bancos.",
       icon: <FileText className="w-6 h-6" />,
-      image: "https://picsum.photos/seed/strategy/600/400"
+      image: "https://www.taxmann.com/post/wp-content/uploads/2025/11/1.-FCRA-Registration-Certificates-Validity-Extended-1200x900.jpg"
     },
     {
       number: "03",
       title: "Ejecución Metro 2",
       description: "Implementamos disputas legales de alto nivel utilizando estándares Metro 2 para asegurar que tu perfil sea impecable.",
       icon: <Zap className="w-6 h-6" />,
-      image: "https://picsum.photos/seed/execution/600/400"
+      image: "https://sqlappupload.s3.ap-south-1.amazonaws.com/vakilkarowebsite/2nd%20%20NGO%20Become%20Eligible%20for%20FCRA%20Registration.jpg"
     },
     {
       number: "04",
       title: "Resultados & Capital",
       description: "Con un perfil sólido y Bank-Ready, te acompañamos en el proceso de obtención de capital con las mejores tasas.",
       icon: <BarChart3 className="w-6 h-6" />,
-      image: "https://picsum.photos/seed/results/600/400"
+      image: "https://sqlappupload.s3.ap-south-1.amazonaws.com/vakilkarowebsite/2nd%20%20Is%20It%20Illegal%20to%20Receive%20Foreign%20Donations%20Without%20FCRA%20Registration.jpg"
     }
   ];
 
@@ -64,7 +64,7 @@ export default function Process() {
               {/* Content */}
               <div className="flex-1 space-y-6">
                 <div className="flex items-center gap-4">
-                  <span className="text-6xl font-display font-black text-brand-gold/20 leading-none">
+                  <span className="text-6xl font-display font-black text-brand-gold/80 leading-none">
                     {step.number}
                   </span>
                   <div className="w-12 h-12 bg-brand-navy rounded-xl flex items-center justify-center shadow-lg">

@@ -22,8 +22,8 @@ export default function Authority() {
           >
             <div className="aspect-[4/5] bg-brand-royal rounded-[3rem] overflow-hidden border border-white/10 shadow-2xl relative group">
               <img 
-                src="https://picsum.photos/seed/ceo/800/1000" 
-                alt="Emmanuel - Fundador de EAI Group" 
+                src="https://cdn.prod.website-files.com/62cc5835db94a076d4bf4ab4/6878500a704632d6017073e6_FCRA%20vs.%20Non-FCRA%20Background%20Checks-thumbnail-2.png" 
+                alt="FCRA vs Non-FCRA" 
                 className="w-full h-full object-cover opacity-80 group-hover:scale-105 transition-transform duration-1000"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-brand-navy via-transparent to-transparent"></div>
